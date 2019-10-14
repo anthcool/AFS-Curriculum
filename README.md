@@ -119,7 +119,7 @@
 
 ## [Building for Mobile Devices](https://app.pluralsight.com/channels/details/539e8644-3393-463d-a402-6d95624dc843)
 ### This channel helps teach you to use Xamarin.Forms to build native Android and iOS applications from a shared code-base using C# / .NET.
-- MSFT Learn | Xamarin Courses ([suggested learning order]((https://gist.github.com/anthcool/a8c6dde5f0f14124b2e6ccb37db2aaad)))
+- MSFT Learn | Xamarin Courses ([suggested learning order](https://gist.github.com/anthcool/a8c6dde5f0f14124b2e6ccb37db2aaad))
 - MSFT Learn | [Xamarin Courses](https://docs.microsoft.com/en-us/learn/browse/?products=xamarin)
 - Xamarin.Forms [Shell](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/) (declaratively lay out your app structure and navigation)
 - Building Xamarin.Forms Apps with XAML
