@@ -185,6 +185,7 @@
 - Various official MSFT development [blogs](https://devblogs.microsoft.com) to keep you current.
 - [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/msdn-magazine-issues.aspx) Issues
 - MSFT Channel 9 [video library](https://channel9.msdn.com/)
+- [.NET 101 Videos](https://dotnet.microsoft.com/learn/videos)
 - Official Microsoft Development [Docs](https://docs.microsoft.com/en-us/)
 - [Browse](https://docs.microsoft.com/en-us/samples/browse/) MSFT code samples
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
