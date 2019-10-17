@@ -127,6 +127,7 @@
 - Moving Beyond the Basics with Xamarin.Forms
 - Building an MVVM-based Architecture for Xamarin Mobile Apps
 - Building an Enterprise Mobile App with Xamarin.Forms
+- Working with Local Data in Xamarin.Forms
 - Xamarin.Android: Getting Started
 - Add ASPNET Core's [Dependency Injection](https://montemagno.com/add-asp-net-cores-dependency-injection-into-xamarin-apps-with-hostbuilder/) to your Xamarin.Forms Apps
 - XAML Patterns
