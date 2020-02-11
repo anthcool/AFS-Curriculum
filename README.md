@@ -247,7 +247,7 @@
     - VBNET Fundamentals
     - Intro to ASPNET 4 WebForms
     - Intro to ASPNET Web Services
-    - Querying Data with T-SQL from SQL Server
+    - Querying Data with T-SQL from SQL Server Path
 ---
 - [Feedly](https://feedly.com) (great tool for staying up to date w/current technology advancements)
 - Various official MSFT development [blogs](https://devblogs.microsoft.com) to keep you current.
