@@ -247,7 +247,7 @@
     - VBNET Fundamentals
     - Intro to ASPNET 4 WebForms
     - Intro to ASPNET Web Services
-    - Developer's T-SQL Playbook
+    - Querying Data with T-SQL from SQL Server
 ---
 - [Feedly](https://feedly.com) (great tool for staying up to date w/current technology advancements)
 - Various official MSFT development [blogs](https://devblogs.microsoft.com) to keep you current.
@@ -269,9 +269,7 @@
 - Suggested book: [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action)
 - Suggested book: [Programming ASP.NET Core](https://www.microsoftpressstore.com/store/programming-asp.net-core-9781509304417)
 - Suggested book: [ASP.NET Core App Dev...in four sprints](https://www.microsoftpressstore.com/store/asp.net-core-application-development-building-an-application-9781509304066)
-- The [Model-View-Controller](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-2.2) pattern (used in web and API apps)
-- [Razor Pages](https://www.telerik.com/blogs/razor-pages-the-natural-successor-to-web-forms): the Natural Successor to Web Forms
-- [Server-side Blazor](https://channel9.msdn.com/Shows/On-NET/Server-side-Blazor-in-NET-Core-30?WT.mc_id=channel9-twitter-cda) in .NET Core 3.0
+- The [Model-View-Controller](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-2.2) pattern (used in API apps)
 ---
 - [Making](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-2.2) HTTP requests / Consuming web API endpoints
 - HttpClient Class ([System.Net.Http](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netcore-2.2))
@@ -283,7 +281,6 @@
 ---
 - [quicktype.io](https://quicktype.io/?l=cs&r=json2csharp) (for quick model & data access generation)
 - .NET Foundation [Workshops & Presentations](https://dotnet-presentations.github.io/#workshops)
-- [ASP.NET CORE for Beginners](https://youtu.be/--lYHxrsLsc?t=1) - Workshop (use as needed)
 - The [history](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history) of C#
 - "The [Rough History](https://blog.lextudio.com/the-rough-history-of-the-so-many-c-compilers-f3a85500707c) of The...Many C# Compilers" (nice article on the compiler history)
 ---
