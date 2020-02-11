@@ -91,7 +91,7 @@
     - Getting Started with Dependency Injection in .NET
     ---
     - Making Your C# Code More Object-Oriented
-    - Applying Functional Principles in C#
+    - Applying Functional Principles in C# (***can skip***)
 - [Software Principles, Patterns & Design Concepts](https://app.pluralsight.com/channels/details/730f7f2c-6365-4aaf-a0e1-a58371b50a9d) Sub-channel
     - SOLID Principles for C# Developers
     - Refactoring for C# Developers
@@ -102,6 +102,34 @@
     - Design Pattern Library
     - C# Design Strategies
     - Domain-Driven Design Fundamentals
+
+## [Scripting with PowerShell](https://app.pluralsight.com/channels/details/a351a15f-80d1-4f46-b7f4-19d927f782d1?s=1)
+### This channel teaches you all things PowerShell to help you automate tasks & understand configuration management skills through this powerful shell.
+- [Windows PowerShell: Essentials]() Path
+    - PowerShell: Getting Started
+    - Your First Day with PowerShell
+    ---
+    - Putting PowerShell to Work
+    - PowerShell on the Network
+    ---
+    - Automation with PowerShell Scripts
+    - PowerShell Gotchas
+- [Windows PowerShell: Scripting and Toolmaking]() Path
+    - PowerShell Toolmaking Fundamentals
+    - Building Advanced PowerShell Functions and Modules
+    - Windows PowerShell Best Practices and Patterns
+    ---
+    - Reporting with PowerShell HTML and Enhanced HTML
+    - Debugging PowerShell in VS Code
+    - PowerShell Remoting Fundamentals
+    - Accessing SQL Server Databases from PowerShell
+    ---
+    - Building PowerShell GUIs in WPF for Free (***can skip***)
+    - Testing PowerShell with Pester (***can skip***)
+    - Infrastructure Testing with Pester (***can skip***)
+    - Windows Workflows with PowerShell
+    - Working with CSV Data in PowerShell
+    - Working with XML Data in PowerShell
 
 ## [Building for the Web](https://app.pluralsight.com/channels/details/bf26bbfe-0cb5-4a51-a031-b09fe2d8e5d9)
 ### This channel will help teach you how to build for the web using both client and server-side technologies.
