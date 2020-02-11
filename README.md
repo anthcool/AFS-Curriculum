@@ -38,7 +38,16 @@
     - Advanced Debugging w/VS 2019 (***can skip***)
     - Building Cloud-native Solutions for Azure w/VS 2019 (***can skip***)
 - [Intro to Git & DevOps](https://app.pluralsight.com/channels/details/4b51cc20-92d4-47dc-b966-f4739bc5a5d3?s=1) Sub-channel
-    - Getting Started with Git
+    - [Managing Source Code with Git](https://app.pluralsight.com/paths/skills/managing-source-code-with-git) Path
+        - Git: The Big Picture
+        - Getting Started with Git
+        ---
+        - How Git Works
+        - Working with Git Branches
+        ---
+        - Mastering Git
+        - Advanced Git Techniques
+        - Git Administration
     - Using Git for Source Control in VS 2019
     - DevOps: The Big Picture
 
