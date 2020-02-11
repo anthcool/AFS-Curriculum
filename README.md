@@ -57,22 +57,20 @@
 - [C#](https://app.pluralsight.com/paths/skills/csharp) Path
     - C# Fundamentals
     - Beginning C# Collections
-    - Working with Nulls in C#
-    ---
     - Object-Oriented Programming Fundamentals in C#
-    - Dates and Times in .NET
-    - C# Interfaces
-    - LINQ Fundamentals
-    - Defensive Coding in C#
-    - C# Events, Delegates and Lambdas
-    - C# Extension Methods
     ---
+    - LINQ Fundamentals
+    - Dates and Times in .NET
+    - Working with Nulls in C#
+    - Error Handling in C# with Exceptions
     - Getting Started with Asynchronous Programming in .NET
-    - Automated Testing with MSTest V2
-    - Getting Started with Dependency Injection in .NET
-    - C# Concurrent Collections
+    ---
+    - C# Interfaces
+    - C# Extension Methods
+    - C# Events, Delegates and Lambdas
+    - Advanced C# Collections
     - C# Tips and Traps
-    - C# Tips and Traps 2
+    - C# Concurrent Collections
 - [Consuming Data from an API](https://app.pluralsight.com/channels/details/710194ac-6b88-4ccd-b1aa-19fc62c9e2e2) Sub-channel
     - Getting Started with Asynchronous Programming in .NET
     - Using HttpClient to Consume APIs in .NET Core
