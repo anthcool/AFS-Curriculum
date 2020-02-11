@@ -4,15 +4,19 @@
 #### Content you can skip is marked/suffixed with (***can skip***).
 
 Table of Contents:
-- Getting Started (*for all devs*)
-- The C# Language (*for all devs*)
-- Scripting with PowerShell (*for all devs*)
+
+For all devs:
+- Getting Started
+- The C# Language
+- Scripting with PowerShell
 ---
+For specific devs:
 - Building for the Web (*for web devs*)
 - Building for Mobile Devices (*for mobile devs*)
 - Building APIs (*for API devs*)
 ---
-- Azure DevOps Administration (*for DevOps admins*)
+For DevOps admins:
+- Azure DevOps Administration
 
 ## [Getting Started](https://app.pluralsight.com/channels/details/a5878408-5c42-46a5-8f27-ee178d94b056)
 ### This channel contains links to tooling, documentation, and course materials to get you started developing applications.
