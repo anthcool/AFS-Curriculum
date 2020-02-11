@@ -1,7 +1,7 @@
 # **[AFS IT Developer Curriculum](https://app.pluralsight.com/channels/details/8abdbc82-b0da-48ba-b8ee-669c3f7accac)**
 ### The main hub channel for AFS developers that comprises the various tools, concepts, languages, patterns, practices, and frameworks that are required knowledge to function and work in the AFS IT Development team.
 
-### Content you can skip is marked/suffixed with (***can skip***).
+#### Content you can skip is marked/suffixed with (***can skip***).
 
 Table of Contents:
 - Getting Started (*for all devs*)
