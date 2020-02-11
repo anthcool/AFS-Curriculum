@@ -302,8 +302,6 @@
 ---
 ## [Helpful References](https://app.pluralsight.com/channels/details/b385941c-b3c8-4973-a9b2-881a2bd45708)
 ### This channel contains a lot of helpful links to online tools, documentation, code examples, book suggestions, and other supplemental material to aid you throughout the curriculum.
-- [READ ME](https://gist.github.com/anthcool/3473fe3320712795ebef5c271d49879a):  AFS Curriculum | Courses & content app devs can skip
----
 - [Working with Legacy Code](https://app.pluralsight.com/channels/details/6f655fbe-31f1-45ef-bccc-943d5814cb4f) Sub-channel
     - VBNET Fundamentals
     - Intro to ASPNET 4 WebForms
