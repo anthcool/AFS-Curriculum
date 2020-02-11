@@ -170,17 +170,20 @@
 ### This channel helps teach you to use Xamarin.Forms to build native Android and iOS applications from a shared code-base using C# / .NET.
 - MSFT Learn | Xamarin Courses ([suggested learning order](https://gist.github.com/anthcool/a8c6dde5f0f14124b2e6ccb37db2aaad))
 - MSFT Learn | [Xamarin Courses](https://docs.microsoft.com/en-us/learn/browse/?products=xamarin)
-- Xamarin.Forms [Shell](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/) (declaratively lay out your app structure and navigation)
-- Building Xamarin.Forms Apps with XAML
-- Data Binding in Xamarin.Forms
-- Moving Beyond the Basics with Xamarin.Forms
-- Building an MVVM-based Architecture for Xamarin Mobile Apps
-- Building an Enterprise Mobile App with Xamarin.Forms
-- Working with Local Data in Xamarin.Forms
-- Xamarin.Android: Getting Started
+- [Building Cross-Platform Apps with Xamarin Forms](https://app.pluralsight.com/paths/skills/building-cross-platform-apps-with-xamarin-forms) Path
+    - Xamarin Forms: The Big Picture
+    - Introduction to Xamarin Forms
+    ---
+    - Building Xamarin Forms Applications with XAML
+    - Data Binding in Xamarin Forms
+    - Getting Started with Xamarin Essentials in Xamarin Forms
+    - Creating List-based Screens in Xamarin Forms
+    - Using the Xamarin Forms Shell
+    - Working with Local Data in Xamarin Forms
+    - Integrating Google Maps into Xamarin Forms Apps (***can skip***)
+    - Building an Enterprise Mobile Application with Xamarin Forms
+    - Xamarin Forms Localization (***can skip***)
 - Add ASPNET Core's [Dependency Injection](https://montemagno.com/add-asp-net-cores-dependency-injection-into-xamarin-apps-with-hostbuilder/) to your Xamarin.Forms Apps
-- XAML Patterns
-- Practical MVVM
 
 ## [Building APIs](https://app.pluralsight.com/channels/details/32cdb759-f282-4bd2-abb9-5ed588b27c09)
 ### This channel helps teach you how to build REST-based asynchronous APIs with ASPNET Core and Entity Framework Core.
