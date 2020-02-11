@@ -133,39 +133,38 @@
 
 ## [Building for the Web](https://app.pluralsight.com/channels/details/bf26bbfe-0cb5-4a51-a031-b09fe2d8e5d9)
 ### This channel will help teach you how to build for the web using both client and server-side technologies.
-- [Client-side Web Technologies](https://app.pluralsight.com/channels/details/39931d2e-bb2e-4b19-9ce2-f2c3149b2e47) Sub-channel
-    - [Get set up to learn](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/) in VS Code
-    - [HTML, CSS & Js](https://developer.mozilla.org/en-US/docs/Web/Tutorials) Tutorials | MDN Web Docs
-    - [jQuery](https://jquery.com/) (a working knowledge of this is also desirable)
-    - HTML, CSS, and JavaScript: The Big Picture
-    - Building Layouts with the CSS Grid
-    - Bootstrap 4 for the Developer
-    - Creating a Site with CSS Grid and Bootstrap 4
-    - Hands-on JavaScript Project: JSON
-    - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) (for working with data via the client)
-    - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) (build client/server web apps with C# / .NET)
-- [Server-side Web Technologies](https://app.pluralsight.com/channels/details/b11f0f26-c299-4ee5-bdb6-7132c873c0a0) Sub-channel
-    - Pre-req Ref: [Consuming Data from an API](https://app.pluralsight.com/channels/details/710194ac-6b88-4ccd-b1aa-19fc62c9e2e2) (use our web API for app data, not EF Core)
+- [Client and Server Web Frameworks](https://app.pluralsight.com/channels/details/b11f0f26-c299-4ee5-bdb6-7132c873c0a0?s=1) Sub-channel
+    - [Quick-start: Client-side Web Technologies]() Sub-channel
+        - [Get set up to learn in VS Code](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/)
+        - [Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/)
+        - Bootstrap 4 for the Developer
     - [ASP.NET Core](https://app.pluralsight.com/paths/skills/aspnet-core) Path
         - ASPNET Core Fundamentals
-        - Building Web Apps with ASPNET Core MVC
+        - Building Web Apps with ASPNET Core MVC (***can skip***)
         - Building an API with ASPNET Core (***can skip***)
         ---
         - Dependency Injection in ASPNET Core
         - Using Configuration and Options in .NET Core and ASPNET Core Apps
         - Effective Logging in ASPNET Core
-        - ASPNET Core 3.0: The MVC Request Life Cycle
-        - Improving .NET Core MVC Apps Using Extension Points
+        - ASPNET Core 3.0: The MVC Request Life Cycle (***can skip***)
+        - Improving .NET Core MVC Apps Using Extension Points (***can skip***)
         ---
         - Understanding ASPNET Core Security
         - Getting Started with ASPNET Core SignalR
         - ASPNET Core Tag Helpers and View Components
-    - Razor Pages in ASPNET Core: Getting Started
+        - ASPNET Core Health Checks
     - Undertanding ASPNET Core 3.x
-    - Build a Wishlist App with ASPNET Core
-    - Add Auth to an Existing ASPNET Core Wishlist App
-    - Architecting an ASPNET Core MVC App for Unit Testability
-    - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) (build client/server web apps with C# / .NET)
+    - [Building Web Applications with Blazor](https://app.pluralsight.com/paths/skills/building-web-applications-with-blazor) Path
+        - Blazor: The Big Picture
+        - Blazor: Getting Started
+        ---
+        - Designing and Building Enterprise Blazor Applications
+        - Authentication and Authorization in Blazor Applications
+        ---
+        - Creating Blazor Components
+        - JavaScript Interop in Blazor Applications
+    - Blazor for the Web Forms Developer: DEVintersection 2019
+    - Securing Application Secrets in ASPNET Core
 
 ## [Building for Mobile Devices](https://app.pluralsight.com/channels/details/539e8644-3393-463d-a402-6d95624dc843)
 ### This channel helps teach you to use Xamarin.Forms to build native Android and iOS applications from a shared code-base using C# / .NET.
