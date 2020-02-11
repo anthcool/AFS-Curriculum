@@ -212,6 +212,7 @@
 ### Learn the basics of utilizing Azure DevOps Services to understand their part in the administration of our company's software development life cycles (SDLCs).
 - [MSFT Learn | Azure DevOps Intro Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&products=azure-devops)
 - [Microsoft Azure DevOps Engineer (AZ-400)](https://app.pluralsight.com/paths/certificate/microsoft-azure-devops-engineer-az-400) Path
+    Implement DevOps Development Processes ---
     - Microsoft Azure DevOps Engineer: Implement a Secure and Compliant Development Process
     - Microsoft Azure DevOps Engineer: Implement and Manage Azure Pipelines Infrastructure
     - Continuous Delivery and DevOps with Azure DevOps: Source Control with Git
