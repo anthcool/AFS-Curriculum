@@ -1,14 +1,18 @@
 # **[AFS IT Developer Curriculum](https://app.pluralsight.com/channels/details/8abdbc82-b0da-48ba-b8ee-669c3f7accac)**
 ### The main hub channel for AFS developers that comprises the various tools, concepts, languages, patterns, practices, and frameworks that are required knowledge to function and work in the AFS IT Development team.
 
+Table of Contents:
 - Getting Started (*for all devs*)
 - The C# Language (*for all devs*)
+- Scripting with PowerShell (*for all devs*)
 ---
 - Building for the Web (*for web devs*)
 - Building for Mobile Devices (*for mobile devs*)
 - Building APIs (*for API devs*)
 ---
 - Azure DevOps Administration (*for DevOps admins*)
+
+Content you can skip is marked/suffixed with (***can skip***).
 
 ## [Getting Started](https://app.pluralsight.com/channels/details/a5878408-5c42-46a5-8f27-ee178d94b056)
 ### This channel contains links to tooling, documentation, and course materials to get you started developing applications.
