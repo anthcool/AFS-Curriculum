@@ -5,17 +5,17 @@
 
 ##### Table of Contents:
 
-For all devs:
+##### For all devs:
 - Getting Started
 - The C# Language
 - Scripting with PowerShell
 ---
-For specific devs:
+##### For specific devs:
 - Building for the Web (*for web devs*)
 - Building for Mobile Devices (*for mobile devs*)
 - Building APIs (*for API devs*)
 ---
-For DevOps admins:
+##### For DevOps admins:
 - Azure DevOps Administration
 
 ## [Getting Started](https://app.pluralsight.com/channels/details/a5878408-5c42-46a5-8f27-ee178d94b056)
