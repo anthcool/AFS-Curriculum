@@ -197,14 +197,6 @@
     - Using OpenAPI/Swagger for Testing and Code Generation in ASPNET Core
     ---
     - Building GraphQL APIs with ASPNET Core (***can skip***)
-- [Entity Framework Core](https://app.pluralsight.com/paths/skills/entity-framework-core) Path
-    - Entity Framework Core 2: Getting Started
-    - Entity Framework Core 2: Mappings
-    ---
-    - Entity Framework Core 2.1: What's New Playbook
-    - Testing with EF Core
-    ---
-    - Entity Framework Core 2.1 Migrations: Fundamentals
 - [Querying Data with T-SQL from SQL Server](https://app.pluralsight.com/paths/skills/querying-data-with-t-sql-from-sql-server) Path
     - Querying Data Using T-SQL
     - Combining and Filtering Data with T-SQL
@@ -218,19 +210,33 @@
 
 ## [Azure DevOps Administration](https://app.pluralsight.com/channels/details/4a5cfda4-7b6d-40bd-b078-3cc56fca503d)
 ### Learn the basics of utilizing Azure DevOps Services to understand their part in the administration of our company's software development life cycles (SDLCs).
-- Azure DevOps: Getting Started
-- Continuous Delivery and DevOps with Azure DevOps: The Big Picture
-- Continuous Delivery and DevOps with Azure DevOps: Source Control with Git
-- Continuous Delivery and DevOps with Azure DevOps: Managing Builds
-- Continuous Delivery and DevOps with Azure DevOps: Release Pipelines
-- MSFT Azure DevOps Engineer: Implement and Manage Azure Pipelines Infrastructure
-- MSFT Azure DevOps Engineer: Monitoring Code Quality
-- App Testing with Azure DevOps and VS 2019
-- Feature Toggles, Package Mgmt and Versioning with Azure DevOps
-- MSFT Azure DevOps Engineer: Leveraging ARM Templates for Infrastructure
-- MSFT Azure DevOps Engineer: Implementing Infrastructure Control and Compliance
-- [Evolve your DevOps practices](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) - learning path on MSFT Learn
-- [Build applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) - learning path on MSFT Learn
+- [MSFT Learn | Azure DevOps Intro Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&products=azure-devops)
+- [Microsoft Azure DevOps Engineer (AZ-400)](https://app.pluralsight.com/paths/certificate/microsoft-azure-devops-engineer-az-400) Path
+    - Microsoft Azure DevOps Engineer: Implement a Secure and Compliant Development Process
+    - Microsoft Azure DevOps Engineer: Implement and Manage Azure Pipelines Infrastructure
+    - Continuous Delivery and DevOps with Azure DevOps: Source Control with Git
+    - Feature Toggles, Package Management and Versioning with Azure DevOps
+    ---
+    - Microsoft Azure DevOps Engineer: Creating an Automated Build Workflow
+    - Application Testing with Azure DevOps and Visual Studio 2019
+    - Microsoft Azure DevOps Engineer: Monitoring Code Quality
+    ---
+    - Continuous Delivery and DevOps with Azure Devops: Release Pipelines
+    - Microsoft Azure DevOps Engineer: Manage and Modularize Tasks and Templates
+    - Microsoft Azure DevOps Engineer: Selecting and Implementing an Appropriate Deployment
+    ---
+    - Microsoft Azure DevOps Engineer: Inspecting and Identifying Code Dependencies
+    - Inspecting Open Source Software Packages for Security and License Compliance
+    ---
+    - Microsoft Azure DevOps Engineer: Leveraging ARM Templates for Infrastructure
+    - Microsoft Azure DevOps Engineer: Manage Azure Kubernetes Services Infrastructure
+    - Microsoft Azure DevOps Engineer: Implementing Infrastructure Control and Compliance
+    - Microsoft Azure DevOps Engineer: Provision Azure Resources
+    - Microsoft Azure DevOps Engineer: Implement Imperative Virtual Machine Configuration Management
+    ---
+    - Microsoft Azure DevOps Engineer: Recommend and Design System Feedback Mechanisms
+    - Microsoft Azure DevOps Engineer: Route System Feedback to Development Teams
+    - Microsoft Azure DevOps Engineer: Optimize Feedback Mechanisms
 
 ---
 ## [Helpful References](https://app.pluralsight.com/channels/details/b385941c-b3c8-4973-a9b2-881a2bd45708)
