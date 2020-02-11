@@ -308,55 +308,11 @@
     - Intro to ASPNET Web Services
     - Querying Data with T-SQL from SQL Server Path
 ---
-- [Feedly](https://feedly.com) (great tool for staying up to date w/current technology advancements)
-- Various official MSFT development [blogs](https://devblogs.microsoft.com) to keep you current.
-- [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/msdn-magazine-issues.aspx) Issues
-- MSFT Channel 9 [video library](https://channel9.msdn.com/)
-- [.NET 101 Videos](https://dotnet.microsoft.com/learn/videos)
-- Official Microsoft Development [Docs](https://docs.microsoft.com/en-us/)
-- [Browse](https://docs.microsoft.com/en-us/samples/browse/) MSFT code samples
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
----
-- [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- Suggested book: [Begin to Code with C#](https://www.microsoftpressstore.com/store/begin-to-code-with-c-sharp-9781509301157)
-- Suggested book: [C# in Depth, 4th Ed.](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
-- Suggested book:  [Adaptive Code..., 2nd Ed.](https://www.microsoftpressstore.com/store/adaptive-code-agile-coding-with-design-patterns-and-9781509302581)
-- .NET Core [Guide](https://docs.microsoft.com/en-us/dotnet/core/)
-- .NET Core [API Browser](https://docs.microsoft.com/en-us/dotnet/api/?view=netcore-3.0)
-- .NET Core [Command-Line Interface (CLI) Tools](https://docs.microsoft.com/en-us/dotnet/core/tools/?tabs=netcore2x)
----
-- Suggested book: [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action)
-- Suggested book: [Programming ASP.NET Core](https://www.microsoftpressstore.com/store/programming-asp.net-core-9781509304417)
-- Suggested book: [ASP.NET Core App Dev...in four sprints](https://www.microsoftpressstore.com/store/asp.net-core-application-development-building-an-application-9781509304066)
-- The [Model-View-Controller](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-2.2) pattern (used in API apps)
----
-- [Making](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-2.2) HTTP requests / Consuming web API endpoints
-- HttpClient Class ([System.Net.Http](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netcore-2.2))
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers (for practice or easy mock ups)
-- [Postman](https://www.getpostman.com/) (for working with APIs)
-- [LINQPad](https://www.linqpad.net/Download.aspx) Downloads (use 6.0 or higher)
-- Suggested book: [T-SQL Fundamentals, 3rd Ed.](https://www.microsoftpressstore.com/store/t-sql-fundamentals-9781509302000)
-- Suggested book: [T-SQL Querying](https://www.microsoftpressstore.com/store/t-sql-querying-9780735685048)
----
-- [quicktype.io](https://quicktype.io/?l=cs&r=json2csharp) (for quick model & data access generation)
-- .NET Foundation [Workshops & Presentations](https://dotnet-presentations.github.io/#workshops)
-- The [history](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history) of C#
-- "The [Rough History](https://blog.lextudio.com/the-rough-history-of-the-so-many-c-compilers-f3a85500707c) of The...Many C# Compilers" (nice article on the compiler history)
----
-- Xamarin [Docs](https://docs.microsoft.com/en-us/xamarin/)
-- Xamarin.Forms | [Renderer Base Classes and Native Controls](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/custom-renderer/renderers)
-- The [Model-View-ViewModel](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm) pattern (used in mobile apps)
-- Suggested book: [Xamarin in Action](https://www.manning.com/books/xamarin-in-action)
----
-- Azure DevOps Services [Docs](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops)
-- Understanding the GitHub [flow](https://guides.github.com/introduction/flow/)
-- [Workflow options](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops):  Basic, Agile, Scrum, or CMMI - Azure Boards
-- [How We Use Git](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/use-git-microsoft) at Microsoft - Azure DevOps
----
-- MDN Web [Docs](https://developer.mozilla.org/en-US/)
-- Chrome DevTools [Docs](https://developers.google.com/web/tools/chrome-devtools/)
-- Chrome Platform [Status](https://www.chromestatus.com/features/schedule) (stay up-to-date on current and upcoming features in the browser)
-- [Can I use](https://caniuse.com/)... (support tables for HTML, CSS, etc.)
-- Front-end Developer [Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) 2019 | #allTheThings
-- [Frontend Masters](https://frontendmasters.com/) (best place to DEEPLY learn front end web tech)
-- [Paletton](https://www.paletton.com) - The Color Scheme Designer
+- Staying Current in Technologies Section
+- Documentation Sites Section
+- C# and NET Core Section
+- ASPNET Core Development Section
+- Working with APIs and API Development Section
+- Mobile Development with Xamarin Forms Section
+- Azure DevOps Administration Section
+- Client-side Web Development Section
