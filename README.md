@@ -12,7 +12,7 @@ Table of Contents:
 ---
 - Azure DevOps Administration (*for DevOps admins*)
 
-Content you can skip is marked/suffixed with (***can skip***).
+### Content you can skip is marked/suffixed with (***can skip***).
 
 ## [Getting Started](https://app.pluralsight.com/channels/details/a5878408-5c42-46a5-8f27-ee178d94b056)
 ### This channel contains links to tooling, documentation, and course materials to get you started developing applications.
