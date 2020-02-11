@@ -302,11 +302,12 @@
 ---
 ## [Helpful References](https://app.pluralsight.com/channels/details/b385941c-b3c8-4973-a9b2-881a2bd45708)
 ### This channel contains a lot of helpful links to online tools, documentation, code examples, book suggestions, and other supplemental material to aid you throughout the curriculum.
-- [Working with Legacy Code](https://app.pluralsight.com/channels/details/6f655fbe-31f1-45ef-bccc-943d5814cb4f) Sub-channel
-    - VBNET Fundamentals
-    - Intro to ASPNET 4 WebForms
-    - Intro to ASPNET Web Services
-    - Querying Data with T-SQL from SQL Server Path
+- Legacy Code at AFS Section
+    - [Working with Legacy Code](https://app.pluralsight.com/channels/details/6f655fbe-31f1-45ef-bccc-943d5814cb4f) Sub-channel
+        - VBNET Fundamentals
+        - Intro to ASPNET 4 WebForms
+        - Intro to ASPNET Web Services
+        - Querying Data with T-SQL from SQL Server Path
 ---
 - Staying Current in Technologies Section
 - Documentation Sites Section
