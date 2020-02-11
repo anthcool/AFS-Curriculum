@@ -212,29 +212,35 @@
 ### Learn the basics of utilizing Azure DevOps Services to understand their part in the administration of our company's software development life cycles (SDLCs).
 - [MSFT Learn | Azure DevOps Intro Learning Paths](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&products=azure-devops)
 - [Microsoft Azure DevOps Engineer (AZ-400)](https://app.pluralsight.com/paths/certificate/microsoft-azure-devops-engineer-az-400) Path
-    Implement DevOps Development Processes ---
+    ---
+    Implement DevOps Development Processes:
     - Microsoft Azure DevOps Engineer: Implement a Secure and Compliant Development Process
     - Microsoft Azure DevOps Engineer: Implement and Manage Azure Pipelines Infrastructure
     - Continuous Delivery and DevOps with Azure DevOps: Source Control with Git
     - Feature Toggles, Package Management and Versioning with Azure DevOps
     ---
+    Implement Continuous Inetgration:
     - Microsoft Azure DevOps Engineer: Creating an Automated Build Workflow
     - Application Testing with Azure DevOps and Visual Studio 2019
     - Microsoft Azure DevOps Engineer: Monitoring Code Quality
     ---
+    Implement Continuous Delivery:
     - Continuous Delivery and DevOps with Azure Devops: Release Pipelines
     - Microsoft Azure DevOps Engineer: Manage and Modularize Tasks and Templates
     - Microsoft Azure DevOps Engineer: Selecting and Implementing an Appropriate Deployment
     ---
+    Implement Dependency Management:
     - Microsoft Azure DevOps Engineer: Inspecting and Identifying Code Dependencies
     - Inspecting Open Source Software Packages for Security and License Compliance
     ---
+    Implement Application Infrastructure:
     - Microsoft Azure DevOps Engineer: Leveraging ARM Templates for Infrastructure
     - Microsoft Azure DevOps Engineer: Manage Azure Kubernetes Services Infrastructure
     - Microsoft Azure DevOps Engineer: Implementing Infrastructure Control and Compliance
     - Microsoft Azure DevOps Engineer: Provision Azure Resources
     - Microsoft Azure DevOps Engineer: Implement Imperative Virtual Machine Configuration Management
     ---
+    Implement Continuous Feedback:
     - Microsoft Azure DevOps Engineer: Recommend and Design System Feedback Mechanisms
     - Microsoft Azure DevOps Engineer: Route System Feedback to Development Teams
     - Microsoft Azure DevOps Engineer: Optimize Feedback Mechanisms
