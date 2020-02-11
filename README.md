@@ -25,26 +25,34 @@
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017) (*option A:  will replace SSMS*)
 - [SQL Server Mgmt Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017) (*option B: older, heavier, slower*)
 - [Visual Studio 2019](https://app.pluralsight.com/paths/skills/visual-studio-2019) Path
+
+    Beginner:
     - What's New in VS 2019
     - VS 2019 Getting Started
     - VS 2019: Debugging
     ---
+    Intermediate:
     - Using Git for Source Control in VS 2019
     - Testing .NET Code in VS 2019
     - Code Analysis in VS 2019
     - Migrating Apps and Services to Azure with VS 2019 (***can skip***)
     ---
+    Advanced:
     - Play by Play: VS Live Share
     - Advanced Debugging w/VS 2019 (***can skip***)
     - Building Cloud-native Solutions for Azure w/VS 2019 (***can skip***)
 - [Intro to Git & DevOps](https://app.pluralsight.com/channels/details/4b51cc20-92d4-47dc-b966-f4739bc5a5d3?s=1) Sub-channel
     - [Managing Source Code with Git](https://app.pluralsight.com/paths/skills/managing-source-code-with-git) Path
+    
+        Beginner:
         - Git: The Big Picture
         - Getting Started with Git
         ---
+        Intermediate:
         - How Git Works
         - Working with Git Branches
         ---
+        Advanced:
         - Mastering Git
         - Advanced Git Techniques
         - Git Administration
@@ -55,16 +63,20 @@
 ### This channel helps you become proficient in the C# language, which is used for all kinds of development here at AFS.
 - [Hello World](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019): Create a simple C# console app in Visual Studio
 - [C#](https://app.pluralsight.com/paths/skills/csharp) Path
+
+    Beginner:
     - C# Fundamentals
     - Beginning C# Collections
     - Object-Oriented Programming Fundamentals in C#
     ---
+    Intermediate:
     - LINQ Fundamentals
     - Dates and Times in .NET
     - Working with Nulls in C#
     - Error Handling in C# with Exceptions
     - Getting Started with Asynchronous Programming in .NET
     ---
+    Advanced:
     - C# Interfaces
     - C# Extension Methods
     - C# Events, Delegates and Lambdas
@@ -80,16 +92,23 @@
     - LINQ Fundamentals
     - LINQ Architecture
 - [C# Coding Practices](https://app.pluralsight.com/paths/skills/c-coding-practices) Path
+
+    Beginner:
     - Clean Coding Principles in C#
     - Defensive Coding in C#
     ---
+    Intermediate:
     - Refactoring for C# Developers
     ---
+    Advanced:
     - SOLID Principles for C# Developers
 - [C# Application Practices](https://app.pluralsight.com/paths/skills/c-application-design) Path
+
+    Application Design Principles:
     - Clean Architecture: Patterns, Practices, and Principles
     - Getting Started with Dependency Injection in .NET
     ---
+    C# Programming Paradigms:
     - Making Your C# Code More Object-Oriented
     - Applying Functional Principles in C# (***can skip***)
 - [Software Principles, Patterns & Design Concepts](https://app.pluralsight.com/channels/details/730f7f2c-6365-4aaf-a0e1-a58371b50a9d) Sub-channel
@@ -105,25 +124,33 @@
 
 ## [Scripting with PowerShell](https://app.pluralsight.com/channels/details/a351a15f-80d1-4f46-b7f4-19d927f782d1?s=1)
 ### This channel teaches you all things PowerShell to help you automate tasks & understand configuration management skills through this powerful shell.
-- [Windows PowerShell: Essentials]() Path
+- [Windows PowerShell: Essentials](https://app.pluralsight.com/paths/skills/windows-powershell-essentials) Path
+
+    Beginner:
     - PowerShell: Getting Started
     - Your First Day with PowerShell
     ---
+    Intermediate:
     - Putting PowerShell to Work
     - PowerShell on the Network
     ---
+    Advanced:
     - Automation with PowerShell Scripts
     - PowerShell Gotchas
-- [Windows PowerShell: Scripting and Toolmaking]() Path
+- [Windows PowerShell: Scripting and Toolmaking](https://app.pluralsight.com/paths/skills/powershell-scripting-and-toolmaking) Path
+
+    Beginner:
     - PowerShell Toolmaking Fundamentals
     - Building Advanced PowerShell Functions and Modules
     - Windows PowerShell Best Practices and Patterns
     ---
+    Intermediate:
     - Reporting with PowerShell HTML and Enhanced HTML
     - Debugging PowerShell in VS Code
     - PowerShell Remoting Fundamentals
     - Accessing SQL Server Databases from PowerShell
     ---
+    Advanced:
     - Building PowerShell GUIs in WPF for Free (***can skip***)
     - Testing PowerShell with Pester (***can skip***)
     - Infrastructure Testing with Pester (***can skip***)
@@ -134,33 +161,41 @@
 ## [Building for the Web](https://app.pluralsight.com/channels/details/bf26bbfe-0cb5-4a51-a031-b09fe2d8e5d9)
 ### This channel will help teach you how to build for the web using both client and server-side technologies.
 - [Client and Server Web Frameworks](https://app.pluralsight.com/channels/details/b11f0f26-c299-4ee5-bdb6-7132c873c0a0?s=1) Sub-channel
-    - [Quick-start: Client-side Web Technologies]() Sub-channel
+    - [Quick-start: Client-side Web Technologies](https://app.pluralsight.com/channels/details/39931d2e-bb2e-4b19-9ce2-f2c3149b2e47?s=1) Sub-channel
         - [Get set up to learn in VS Code](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/)
         - [Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/)
         - Bootstrap 4 for the Developer
     - [ASP.NET Core](https://app.pluralsight.com/paths/skills/aspnet-core) Path
+    
+        Beginner:
         - ASPNET Core Fundamentals
         - Building Web Apps with ASPNET Core MVC (***can skip***)
         - Building an API with ASPNET Core (***can skip***)
         ---
+        Intermediate:
         - Dependency Injection in ASPNET Core
         - Using Configuration and Options in .NET Core and ASPNET Core Apps
         - Effective Logging in ASPNET Core
         - ASPNET Core 3.0: The MVC Request Life Cycle (***can skip***)
         - Improving .NET Core MVC Apps Using Extension Points (***can skip***)
         ---
+        Advanced:
         - Understanding ASPNET Core Security
         - Getting Started with ASPNET Core SignalR
         - ASPNET Core Tag Helpers and View Components
         - ASPNET Core Health Checks
     - Undertanding ASPNET Core 3.x
     - [Building Web Applications with Blazor](https://app.pluralsight.com/paths/skills/building-web-applications-with-blazor) Path
+        
+        Beginner:
         - Blazor: The Big Picture
         - Blazor: Getting Started
         ---
+        Intermediate:
         - Designing and Building Enterprise Blazor Applications
         - Authentication and Authorization in Blazor Applications
         ---
+        Advanced:
         - Creating Blazor Components
         - JavaScript Interop in Blazor Applications
     - Blazor for the Web Forms Developer: DEVintersection 2019
@@ -171,9 +206,12 @@
 - MSFT Learn | Xamarin Courses ([suggested learning order](https://gist.github.com/anthcool/a8c6dde5f0f14124b2e6ccb37db2aaad))
 - MSFT Learn | [Xamarin Courses](https://docs.microsoft.com/en-us/learn/browse/?products=xamarin)
 - [Building Cross-Platform Apps with Xamarin Forms](https://app.pluralsight.com/paths/skills/building-cross-platform-apps-with-xamarin-forms) Path
+
+    Beginner:
     - Xamarin Forms: The Big Picture
     - Introduction to Xamarin Forms
     ---
+    Intermediate:
     - Building Xamarin Forms Applications with XAML
     - Data Binding in Xamarin Forms
     - Getting Started with Xamarin Essentials in Xamarin Forms
@@ -188,23 +226,31 @@
 ## [Building APIs](https://app.pluralsight.com/channels/details/32cdb759-f282-4bd2-abb9-5ed588b27c09)
 ### This channel helps teach you how to build REST-based asynchronous APIs with ASPNET Core and Entity Framework Core.
 - [API Development in ASP.NET Core](https://app.pluralsight.com/paths/skills/api-development-in-aspnet-core) Path
+    
+    Beginner:
     - Designing RESTful Web APIs
     - Building a RESTful API with ASPNET Core 3
     - Implementing Advanced RESTful Concerns with ASPNET Core 3
     ---
+    Intermediate:
     - Documenting an ASPNET Core API with OpenAPI/Swagger
     - Building an Async API with ASPNET Core
     - Using OpenAPI/Swagger for Testing and Code Generation in ASPNET Core
     ---
+    Advanced:
     - Building GraphQL APIs with ASPNET Core (***can skip***)
 - [Querying Data with T-SQL from SQL Server](https://app.pluralsight.com/paths/skills/querying-data-with-t-sql-from-sql-server) Path
+    
+    Beginner:
     - Querying Data Using T-SQL
     - Combining and Filtering Data with T-SQL
     ---
+    Intermediate:
     - T-SQL Data Manipulation Playbook
     - Capturing Logic with Stored Procedures in T-SQL
     - T-SQL Functions Playbook
     ---
+    Advanced:
     - Querying JSON, XML, and Temporal Data with T-SQL
     - Handling Errors in T-SQL
 
