@@ -3,6 +3,7 @@
 
 #### Content you can skip is marked/suffixed with (***can skip***).
 
+
 Table of Contents:
 - Getting Started (*for all devs*)
 - The C# Language (*for all devs*)
