@@ -72,20 +72,35 @@
     - C# Tips and Traps
     - C# Concurrent Collections
 - [Consuming Data from an API](https://app.pluralsight.com/channels/details/710194ac-6b88-4ccd-b1aa-19fc62c9e2e2) Sub-channel
+    - [C# Linq and Async Series](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXzJ3FC-ApBes-0klFN9kr9)
     - Getting Started with Asynchronous Programming in .NET
     - Using HttpClient to Consume APIs in .NET Core
     - Getting Started with JSON in C# Using [Json.NET](https://www.newtonsoft.com/json)
     - Working with JSON via the new .NET Core 3.0 [System.Text.Json](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-apis/) APIs
     - LINQ Fundamentals
+    - LINQ Architecture
+- [C# Coding Practices](https://app.pluralsight.com/paths/skills/c-coding-practices) Path
+    - Clean Coding Principles in C#
+    - Defensive Coding in C#
+    ---
+    - Refactoring for C# Developers
+    ---
+    - SOLID Principles for C# Developers
+- [C# Application Practices](https://app.pluralsight.com/paths/skills/c-application-design) Path
+    - Clean Architecture: Patterns, Practices, and Principles
+    - Getting Started with Dependency Injection in .NET
+    ---
+    - Making Your C# Code More Object-Oriented
+    - Applying Functional Principles in C#
 - [Software Principles, Patterns & Design Concepts](https://app.pluralsight.com/channels/details/730f7f2c-6365-4aaf-a0e1-a58371b50a9d) Sub-channel
     - SOLID Principles for C# Developers
-    - C# Design Strategies
     - Refactoring for C# Developers
     - Tactical Design Patterns in .NET: Managing Responsibilities
     - Tactical Design Patterns in .NET: Control Flow
     - Tactical Design Patterns in .NET: Creating Objects
     - Making Your C# Code More Object-oriented
     - Design Pattern Library
+    - C# Design Strategies
     - Domain-Driven Design Fundamentals
 
 ## [Building for the Web](https://app.pluralsight.com/channels/details/bf26bbfe-0cb5-4a51-a031-b09fe2d8e5d9)
