@@ -3,7 +3,7 @@
 
 #### Content you can skip is marked/suffixed with (***can skip***).
 
-##### Table of Contents:
+#### Table of Contents:
 
 ##### For all devs:
 - Getting Started
