@@ -189,7 +189,8 @@
 ### This channel helps teach you how to build REST-based asynchronous APIs with ASPNET Core and Entity Framework Core.
 - [API Development in ASP.NET Core](https://app.pluralsight.com/paths/skills/api-development-in-aspnet-core) Path
     - Designing RESTful Web APIs
-    - Building a RESTful API with ASPNET Core
+    - Building a RESTful API with ASPNET Core 3
+    - Implementing Advanced RESTful Concerns with ASPNET Core 3
     ---
     - Documenting an ASPNET Core API with OpenAPI/Swagger
     - Building an Async API with ASPNET Core
@@ -204,8 +205,16 @@
     - Testing with EF Core
     ---
     - Entity Framework Core 2.1 Migrations: Fundamentals
-- Create a StarChart Web API using ASPNET Core
-- Developer's T-SQL Playbook
+- [Querying Data with T-SQL from SQL Server](https://app.pluralsight.com/paths/skills/querying-data-with-t-sql-from-sql-server) Path
+    - Querying Data Using T-SQL
+    - Combining and Filtering Data with T-SQL
+    ---
+    - T-SQL Data Manipulation Playbook
+    - Capturing Logic with Stored Procedures in T-SQL
+    - T-SQL Functions Playbook
+    ---
+    - Querying JSON, XML, and Temporal Data with T-SQL
+    - Handling Errors in T-SQL
 
 ## [Azure DevOps Administration](https://app.pluralsight.com/channels/details/4a5cfda4-7b6d-40bd-b078-3cc56fca503d)
 ### Learn the basics of utilizing Azure DevOps Services to understand their part in the administration of our company's software development life cycles (SDLCs).
