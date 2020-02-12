@@ -10,7 +10,7 @@
 
 ##### For all devs:
 - [Getting Started](https://github.com/anthcool/AFS-Curriculum#getting-started)
-- The C# Language
+- [The C# Language](https://github.com/anthcool/AFS-Curriculum#the-c-language)
 - Scripting with PowerShell
 ---
 ##### For specific devs:
