@@ -21,8 +21,7 @@
 ## [Getting Started](https://app.pluralsight.com/channels/details/a5878408-5c42-46a5-8f27-ee178d94b056)
 ### This channel contains links to tooling, documentation, and course materials to get you started developing applications.
 - [Upgrade](https://www.microsoft.com/en-us/windows/windows-7-end-of-life-support-information) to Windows 10 (*using an Intel i7 CPU or better, 8GB+ RAM, w/a SSD if possible*)
-- [Download](https://www.google.com/chrome/) the Chrome web browser (*recommended browser - DO NOT use Internet Explorer!*)
-- Or [download](https://www.microsoftedgeinsider.com/en-us/) Microsoft Edge Insider (Chromium version) (*eventual company standard once released*)
+- [Download](https://www.microsoft.com/en-us/edge) New Chromium-based Microsoft Edge Browser (DO NOT USE Internet Explorer!)
 - [Visual Studio 2019 Professional](https://my.visualstudio.com/Benefits) (*Workloads to install: .NET Core cross-platform development, ASPNET and web development, Data storage and processing, Mobile development with .NET*)
 - [Pull Requests](https://marketplace.visualstudio.com/items?itemName=VSIDEVersionControlMSFT.pr4vs) for Visual Studio extension (*install this in VS 2019*)
 - [.NET Core SDK](https://dotnet.microsoft.com/download) (*download and install latest stable release*)
