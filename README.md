@@ -11,7 +11,7 @@
 ##### For all devs:
 - [Getting Started](https://github.com/anthcool/AFS-Curriculum#getting-started)
 - [The C# Language](https://github.com/anthcool/AFS-Curriculum#the-c-language)
-- Scripting with PowerShell
+- [Scripting with PowerShell](https://github.com/anthcool/AFS-Curriculum#scripting-with-powershell)
 ---
 ##### For specific devs:
 - Building for the Web (*for web devs*)
