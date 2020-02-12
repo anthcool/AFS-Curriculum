@@ -14,12 +14,15 @@
 - [Scripting with PowerShell](https://github.com/anthcool/AFS-Curriculum#scripting-with-powershell)
 ---
 ##### For specific devs:
-- Building for the Web (*for web devs*)
-- Building for Mobile Devices (*for mobile devs*)
-- Building APIs (*for API devs*)
+- [Building for the Web](https://github.com/anthcool/AFS-Curriculum#building-for-the-web) (*for web devs*)
+- [Building for Mobile Devices](https://github.com/anthcool/AFS-Curriculum#building-for-mobile-devices) (*for mobile devs*)
+- [Building APIs](https://github.com/anthcool/AFS-Curriculum#building-apis) (*for API devs*)
 ---
 ##### For DevOps admins:
-- Azure DevOps Administration
+- [Azure DevOps Administration](https://github.com/anthcool/AFS-Curriculum#azure-devops-administration)
+---
+##### Supplementary content:
+- [Helpful References](https://github.com/anthcool/AFS-Curriculum#helpful-references)
 
 ## [Getting Started](https://app.pluralsight.com/channels/details/a5878408-5c42-46a5-8f27-ee178d94b056)
 ### This channel contains links to tooling, documentation, and course materials to get you started developing applications.
