@@ -9,7 +9,7 @@
 #### Table of Contents:
 
 ##### For all devs:
-- Getting Started
+- [Getting Started](https://github.com/anthcool/AFS-Curriculum#getting-started)
 - The C# Language
 - Scripting with PowerShell
 ---
