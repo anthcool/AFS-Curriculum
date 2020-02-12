@@ -311,8 +311,9 @@
 - Staying Current in Technologies Section
 - Documentation Sites Section
 - C# and NET Core Section
-- ASPNET Core Development Section
-- Working with APIs and API Development Section
-- Mobile Development with Xamarin Forms Section
-- Azure DevOps Administration Section
 - Client-side Web Development Section
+- ASPNET Core Development Section
+- Mobile Development with Xamarin Forms Section
+- Working with APIs and API Development Section
+- Azure DevOps Administration Section
+
