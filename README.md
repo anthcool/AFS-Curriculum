@@ -214,6 +214,10 @@
         - JavaScript Interop in Blazor Applications
     - Blazor for the Web Forms Developer: DEVintersection 2019
     - Securing Application Secrets in ASPNET Core
+- [Securing Web Apps with Azure Active Directory](https://app.pluralsight.com/channels/details/53aa60cc-4e0f-4c4c-a856-be6ddd91ac35?s=1) Sub-channel
+    - Getting Started with Azure Active Directory for Developers
+    - Building Authorization in Azure Active Directory for Developers
+    - Developing Web Applications and Web APIs Protected by Azure Active Directory
 
 ## [Building for Mobile Devices](https://app.pluralsight.com/channels/details/539e8644-3393-463d-a402-6d95624dc843)
 ### This channel helps teach you to use Xamarin.Forms to build native Android and iOS applications from a shared code-base using C# / .NET.
