@@ -101,10 +101,8 @@
     - [C# Linq and Async Series](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXzJ3FC-ApBes-0klFN9kr9)
     - Getting Started with Asynchronous Programming in .NET
     - Using HttpClient to Consume APIs in .NET Core
-    - Getting Started with JSON in C# Using [Json.NET](https://www.newtonsoft.com/json)
-    - Working with JSON via the new .NET Core 3.0 [System.Text.Json](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-apis/) APIs
+    - [Serialize and deserialize JSON using C#](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-overview) (converting from JSON to C# objects and back again)
     - LINQ Fundamentals
-    - LINQ Architecture
 - [C# Coding Practices](https://app.pluralsight.com/paths/skills/c-coding-practices) Path
 
     Beginner:
