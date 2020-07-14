@@ -76,7 +76,7 @@
 ## [The C# Language](https://app.pluralsight.com/channels/details/61c4987e-b594-4c1c-92fa-082e0066e410)
 ### This channel helps you become proficient in the C# language, which is used for all kinds of development here at AFS.
 - [Hello World](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019): Create a simple C# console app in Visual Studio
-- [C#](https://app.pluralsight.com/paths/skills/csharp) Path
+- [C# Development Fundamentals](https://app.pluralsight.com/paths/skills/csharp) Path
 
     Beginner:
     - C# Fundamentals
@@ -131,8 +131,10 @@
 
     Behavioral:
     - *Various*
+    ---
     Creational:
     - *Various*
+    ---
     Structural:
     - *Various*
 - Domain-Driven Design Fundamentals
