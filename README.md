@@ -80,10 +80,14 @@
 
     Beginner:
     - C# Fundamentals
+    - C#: Using Variables and Conditionals
+    - C#: Using Classes, Methods, Objects, and Loops
     - Beginning C# Collections
     - Object-Oriented Programming Fundamentals in C#
+    - Add Features to Grade Book Application Using C#
     ---
     Intermediate:
+    - C#: Using Linq Queries & Operators
     - LINQ Fundamentals
     - Dates and Times in .NET
     - Working with Nulls in C#
@@ -123,16 +127,15 @@
     C# Programming Paradigms:
     - Making Your C# Code More Object-Oriented
     - Applying Functional Principles in C# (***can skip***)
-- [Software Principles, Patterns & Design Concepts](https://app.pluralsight.com/channels/details/730f7f2c-6365-4aaf-a0e1-a58371b50a9d) Sub-channel
-    - SOLID Principles for C# Developers
-    - Refactoring for C# Developers
-    - Tactical Design Patterns in .NET: Managing Responsibilities
-    - Tactical Design Patterns in .NET: Control Flow
-    - Tactical Design Patterns in .NET: Creating Objects
-    - Making Your C# Code More Object-oriented
-    - Design Pattern Library
-    - C# Design Strategies
-    - Domain-Driven Design Fundamentals
+- [Design Patterns in C#](https://app.pluralsight.com/paths/skills/design-patterns-in-c) Path
+
+    Behavioral:
+    - *Various*
+    Creational:
+    - *Various*
+    Structural:
+    - *Various*
+- Domain-Driven Design Fundamentals
 
 ## [Scripting with PowerShell](https://app.pluralsight.com/channels/details/a351a15f-80d1-4f46-b7f4-19d927f782d1?s=1)
 ### This channel teaches you all things PowerShell to help you automate tasks & understand configuration management skills through this powerful shell.
